@@ -7,7 +7,7 @@ while True:
 
     print( " your answer is : ", z)
 
-    x=input("Wannna try again y/n ")
+    x=input("Wannna try again y/n  ")
     if x== "n" :
         print("Thank you for using it")
         break
