@@ -30,3 +30,5 @@ while True:
     if x== "n" :
         print("Thank you for using it")
         break
+    else:
+        print("Thank you")
